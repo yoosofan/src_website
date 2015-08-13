@@ -10,8 +10,6 @@ Thumbs.db
 *.pyc
 *.pyo
 .doit.db
-files/**
-!files/assets/**
 themes/
 galleries/
 .*

@@ -1,0 +1,14 @@
+.yoosofan-change-ltr{direction: ltr;}
+@font-face { 
+    font-family: 'nazli';
+    src: url('nazli.eot');
+    src: url('nazli.eot?#iefix') format('embedded-opentype'),
+    url('nazli.woff') format('woff'),
+    url('nazli.woff2') format('woff2'),
+    url('nazli.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, body {
+  font-family: nazli, "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
