@@ -15,7 +15,7 @@
 *  `کامپایلر <compiler.html>`_
 *  `پایگاه داده‌ها <db.html>`_
 *  `مهندسی اینترنت <ie.html>`_
-*  `آزمایشگاه سیستم عامل <osLab.html>`_
+*  `آزمایشگاه سیستم عامل <oslab.html>`_
 *  `مدل‌سازی و بررسی کارآیی سیستم‌های کامپیوتری(Modeling and Perfomance Evaluation of Computer Systems)  <cpa.html>`_
 *  `نکته‌هایی درباره‌ی برگزاری آزمون <exam.html>`_
 

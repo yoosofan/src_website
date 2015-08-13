@@ -15,7 +15,7 @@
 *  `Compilers <compiler.html>`_
 *  `Database <db.html>`_
 *  `Internet Engineering <ie.html>`_
-*  `Operating Systems Laboratory <osLab.html>`_
+*  `Operating Systems Laboratory <oslab.html>`_
 *  `Modeling and Perfomance Evaluation of Computer Systems <cpa.html>`_
 *  `About exams <exam.html>`_
 

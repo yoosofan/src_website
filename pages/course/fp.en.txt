@@ -252,6 +252,6 @@
   </ul>
   </div><hr />
 
-.. include:: files/course/fp/fp01.c
+.. include:: files/all.files/course/fp/fp01.c
    :code: c
    :number-lines:
