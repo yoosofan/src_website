@@ -30,7 +30,7 @@
 
 `شبیه ساز الگوریتم‌های زمان‌بندی سیستم عامل به کمک 
 javascript
-<webosasim/scheduling.html>`_
+</webosasim/scheduling.html>`_
 
 `نمونه‌ها و نمودارهایی از درس
 <https://www.dropbox.com/s/sw59vcbs6hi09se/print_for_class.odt?dl=0>`_
