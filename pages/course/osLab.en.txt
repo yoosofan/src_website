@@ -8,9 +8,8 @@
 .. type: text
 
 
-`Laboratoty pamphlet(Farsi)
-<https://www.dropbox.com/s/apkb8xnzz8cplfa/oslab_inst.pdf?dl=0>`_
-----------------------------------------------------------------------------------------------------------
+`Laboratoty pamphlet(Farsi) <https://www.dropbox.com/s/apkb8xnzz8cplfa/oslab_inst.pdf?dl=0>`_
+
 
 Some linux programs
 ==============================

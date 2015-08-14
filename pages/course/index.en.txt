@@ -14,10 +14,17 @@
 *  `Operating Systems <os.html>`_
 *  `Compilers <compiler.html>`_
 *  `Database <db.html>`_
+
+Old courses
+--------------
+
 *  `Internet Engineering <ie.html>`_
 *  `Operating Systems Laboratory <oslab.html>`_
 *  `Modeling and Perfomance Evaluation of Computer Systems <cpa.html>`_
-*  `About exams <exam.html>`_
+
+
+`About exams <exam.html>`_
+------------------------------
 
 
 

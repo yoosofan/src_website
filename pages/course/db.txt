@@ -15,7 +15,7 @@
 
 *  `Database System Concepts, 6/E(2011), by Abraham Silberschatz, Henry Korth, S. Sudarshan <http://www.db-book.com>`_
 *  An Introduction to Database Systems, 8/E(2003), by  C.J. Date
-*  An Introduction to Relational Database Theory, 4/E(2014)</a>by Hugh Darwen
+*  An Introduction to Relational Database Theory, 4/E(2014),by Hugh Darwen
 *  `<http://bookboon.com/en/an-introduction-to-relational-database-theory-ebook>`_
 *  `Database Management Systems, 3/E(2007), by  Raghu Ramakrishnan and Johannes Gehrke <http://pages.cs.wisc.edu/~dbbook/>`_
 *  `Exercises on Relational Database Theory, 2E(2014), by Hugh Darwen <http://bookboon.com/en/exercises-on-relational-database-theory-ebook>`_
@@ -49,7 +49,7 @@
 *  `Oracle <http://www.oracle.com/us/products/database/overview/index.html>`_
 *  `Microsoft SQLserver <http://www.microsoft.com/sqlserver/>`_
 *  `IBM DB2 <http://www-01.ibm.com/software/data/db2/>`_
-*  `MemSQL <a href="http://www.memsql.com>`_
+*  `MemSQL <http://www.memsql.com>`_
 *  `Interbase <http://www.embarcadero.com/products/interbase>`_
 *  `valentina-db <http://www.valentina-db.com>`_
 
@@ -64,7 +64,7 @@ sqlite
 
 *  `SQLiteMan <http://www.sqliteman.com>`_ ,  `sqliteman-portable <http://portableapps.com/apps/development/sqliteman-portable>`_
 *  `SQLite Database Browser <http://sqlitebrowser.sourceforge.net>`_ , `sqlite_database_browser_portable <http://portableapps.com/apps/development/sqlite_database_browser_portable>`_
-*  `SQLite Manager <a href ="https://addons.mozilla.org/en-US/firefox/addon/5817>`_
+*  `SQLite Manager <https://addons.mozilla.org/en-US/firefox/addon/5817>`_
 
 سامانه‌های مدیریت پایگاه داده به زبان java
 
@@ -98,12 +98,12 @@ sqlite
 <http://dbappbuilder.sourceforge.net/Rel.php>`_
 
 `پیاده سازی به کمک زبان python
-<http://www.quicksort.co.uk>_`
+<http://www.quicksort.co.uk>`_
 
 `پیاده سازی به زبان c و به کمک tcl
 <http://tclral.sourceforge.net>`_
 
-یک پایگاه داده کاملا رابطه‌ای
+`یک پایگاه داده کاملا رابطه‌ای
 <http://duro.sourceforge.net>`_
 
 `Hugh Darwen <http://www.dcs.warwick.ac.uk/~hugh/>`_

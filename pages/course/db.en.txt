@@ -92,7 +92,7 @@ Ohter resources
 
 `<http://dbappbuilder.sourceforge.net/Rel.php>`_
 
-`<http://www.quicksort.co.uk>_`
+`<http://www.quicksort.co.uk>`_
 
 `<http://tclral.sourceforge.net>`_
 
