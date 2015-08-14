@@ -9,7 +9,7 @@
 
 
 Books
-******
+======
 
 *  `Operating System Concepts, by Silberschatz, Galvin and Gagne, 9/E(2012) <http://www.os-book.com>`_
 *  `Operating Systems: Internals and Design, 8/E(2011), by William Stallings <http://williamstallings.com/OperatingSystems/>`_
@@ -17,7 +17,7 @@ Books
 *  `Schaum's outline of operating systems(2002), by J Archer Harris <http://www.goodreads.com/book/show/664165.Schaum_s_Outline_of_Operating_Systems>`_
 
 Other Resources
-****************
+=================
 
 *  `some resources for getting started in operating system development <http://stackoverflow.com/questions/43180/what-are-some-resources-for-getting-started-in-operating-system-development>`_
 *  `Operating System Design <http://en.wikibooks.org/wiki/Operating_System_Design>`_
@@ -32,4 +32,3 @@ Other Resources
 `Some part of course <https://www.dropbox.com/s/odxe49la4prinf1/os_print.rar?dl=0>`_
 
 `English parts <https://www.dropbox.com/s/hco5qfpw2ob28t8/os_print_English.rar?dl=0>`_
-

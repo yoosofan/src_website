@@ -10,9 +10,10 @@
 
 `Laboratoty pamphlet(Farsi)
 <https://www.dropbox.com/s/apkb8xnzz8cplfa/oslab_inst.pdf?dl=0>`_
+----------------------------------------------------------------------------------------------------------
 
 Some linux programs
-****************************************************************
+==============================
 
 *  unnamed pipes
    *  `unnamed pipes sample code <files/course/osLab/programs/unnamed_pipe.cpp>`_
@@ -33,8 +34,7 @@ Some linux programs
 ---------------------------------
 
 Virtual Machines
-****************
-
+==================
 
 *  `VmWare <http://www.vmware.com>`_
 *  `VirtualBox <http://www.virtualbox.org>`_

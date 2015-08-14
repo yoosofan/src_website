@@ -9,7 +9,7 @@
 
 
 Regular Expression
-******************
+===================
 
 .. class:: yoosofan-change-ltr
 
@@ -21,7 +21,7 @@ Regular Expression
 `lex samples <files/course/compiler/lex_sample.zip>`_
 
 JSCC
-****
+=====
 
 `jscc compiler tool <http://jscc.jmksf.com/jscc/jscc.html>`_
 
@@ -34,7 +34,7 @@ JSCC
 -----------
 
 Tools
-******
+======
 
   *  `<http://www.dabeaz.com/ply/>`_
   *  `<http://www.antlr.org>`_

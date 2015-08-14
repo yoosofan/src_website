@@ -9,7 +9,7 @@
 
 
 کتاب
-******
+==========
 
 .. class:: yoosofan-change-ltr
 
@@ -19,7 +19,7 @@
   *  `Schaum's outline of operating systems(2002), by J Archer Harris <http://www.goodreads.com/book/show/664165.Schaum_s_Outline_of_Operating_Systems>`_
 
 دیگر منابع
-*************
+=================
 
 .. class:: yoosofan-change-ltr
 
@@ -32,10 +32,10 @@
 javascript
 <webosasim/scheduling.html>`_
 
-` نمونه‌ها و نمودارهایی از درس
+`نمونه‌ها و نمودارهایی از درس
 <https://www.dropbox.com/s/sw59vcbs6hi09se/print_for_class.odt?dl=0>`_
 
-` بخش‌هایی از درس
+`بخش‌هایی از درس
 <https://www.dropbox.com/s/odxe49la4prinf1/os_print.rar?dl=0>`_
 
 `فقط بخش‌های فارسی
