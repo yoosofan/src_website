@@ -7,5 +7,5 @@ Custom date for `geany`_
 %Y-%d-%m %H:%M:%S UTC+04:30
 
 
-.. _geany:
+.. _geany: http://geany.org
 
