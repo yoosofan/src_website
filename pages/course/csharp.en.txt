@@ -43,6 +43,8 @@ of .Net for several platforms.
   gmcs -debug  test.cs
   mono  --debug test.exe
 
+`sample codes <files/course/csharp/my_mono_csharp_samples.zip>`_
+
 `monodevelp <http://monodevelop.com>`_
 محیط یکپارچه‌ی اجرا برای کامپایل و اجرای این زبان فراهم می‌کند. 
 

@@ -20,7 +20,7 @@ view selection source
 تا کد جدول ساخته شده نمایش داده شود
 
 `برنامه‌های نمونه به زبان lex
-</files/course/compiler/lex_sample.zip>`_
+<files/course/compiler/lex_sample.zip>`_
 
 
 در سایت‌های زیر ابزارهای خوبی برای کار با عبارت‌های منظم آماده شده است. برای فراگیری بهتر عبارت‌های منظم می‌توانید این ابزارها را به کار ببرید.
@@ -37,15 +37,15 @@ view selection source
 `jscc compiler tool <http://jscc.jmksf.com/jscc/jscc.html>`_
 
 `ماشین حساب ساده
-<files/course/compiler/tools/jscc/simple_extended_calculator.txt>`_
+<files/course/compiler/jscc/simple_extended_calculator.txt>`_
 
 
 `زبان برنامه نویسی نمونه
-<files/course/compiler/tools/jscc/simplified_program.txt>`_
+<files/course/compiler/jscc/simplified_program.txt>`_
 
 گذاشته شده است. در این برنامه تغییر یافته نیز کمترین نیاز به دانستن زبان javascript است و jscc به طور خودکار جدول LALR را می‌سازد. افزون بر این می‌توان به کمک این ابزار درخت تجزیه یک برنامه ساده را نیز ساخت. در
 
-`<files/course/compiler/tools/jscc/sample_input_of_simplified_program.txt>`_
+`<files/course/compiler/jscc/sample_input_of_simplified_program.txt>`_
 
 یک کد ساده برنامه به زبان داده شده نوشته شده است که پس از اجرای آن درخت تجزیه ساخته شده نشان می‌دهد که تصمیم jscc برای برطرف کردن برخورد به خاطر else به درستی انجام شده است.
 

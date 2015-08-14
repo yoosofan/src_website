@@ -18,18 +18,18 @@ Regular Expression
   *  `<http://regexpal.com>`_
   *  `<http://www.regexbuddy.com>`_
 
-`lex samples </files/course/compiler/lex_sample.zip>`_
+`lex samples <files/course/compiler/lex_sample.zip>`_
 
 JSCC
 ****
 
 `jscc compiler tool <http://jscc.jmksf.com/jscc/jscc.html>`_
 
-`simple calculator <files/course/compiler/tools/jscc/simple_extended_calculator.txt>`_
+`simple calculator <files/course/compiler/jscc/simple_extended_calculator.txt>`_
 
-`simple programming language <files/course/compiler/tools/jscc/simplified_program.txt>`_
+`simple programming language <files/course/compiler/jscc/simplified_program.txt>`_
 
-`input of simple programming language <files/course/compiler/tools/jscc/sample_input_of_simplified_program.txt>`_
+`input of simple programming language <files/course/compiler/jscc/sample_input_of_simplified_program.txt>`_
 
 -----------
 

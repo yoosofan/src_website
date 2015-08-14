@@ -41,6 +41,7 @@
     $ gmcs  test.cs
     mono  test.exe
 
+`sample codes <files/course/csharp/my_mono_csharp_samples.zip>`_
 
 برای اشکال زدایی در برنامه‌ها و همچنین به کارگیری برخی از توانایی‌های اشکال زدایی مانند شماره‌ی خط کد در حال اجرا (StackFrame.GetFileLineNumber) برنامه به صورت زیر کامپایل و اجرا شود.
 
