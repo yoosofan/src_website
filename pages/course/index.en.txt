@@ -22,9 +22,3 @@ Old courses
 *  `Operating Systems Laboratory <oslab.html>`_
 *  `Modeling and Perfomance Evaluation of Computer Systems <cpa.html>`_
 
-
-`About exams <exam.html>`_
-------------------------------
-
-
-

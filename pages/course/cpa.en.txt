@@ -1,4 +1,4 @@
-.. title: (مدل‌سازی و بررسی کارآیی سیستم‌های کامپیوتری)
+.. title: Modeling and Perfomance Evaluation of Computer Systems
 .. slug: cpa
 .. date: 2015-08-14 17:41:05 UTC+04:30
 .. tags: 
@@ -10,11 +10,8 @@
 ..  raw:: html
 
   <div dir="ltr">
-  Modeling and Perfomance Evaluation of Computer Systems
-  (مدل‌سازی و بررسی کارآیی سیستم‌های کامپیوتری)
-    <hr />
     <div>
-  (کتاب‌های پیشنهادی)
+      Suggested books
       <div dir="ltr"> Theoretical books:
         <ol>
           <li>
