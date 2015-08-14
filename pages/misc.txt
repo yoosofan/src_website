@@ -37,12 +37,16 @@
 *  `یونی‌پد: ویرایشگر یونی‌کد تحت ویندوز <http://www.unipad.org/main/>`_
 *  `Simredo (Java based) <http://www012.upp.so-net.ne.jp/klivo/simredo/simeng.htm>`_
 
+----------------------------------------
+
 سایت‌های آموزشی
 ===========================
 
 *  `مکتب خونه <http://maktabkhooneh.org>`_
 *  `coursera <https://www.coursera.org>`_
 *  `edx <https://www.edx.org>`_
+
+----------------------------------
 
 مصوبه‌های گروه درباره‌ی دانشجویان
 ======================================
