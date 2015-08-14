@@ -72,7 +72,7 @@ NAVIGATION_LINKS = {
             ("/en/archive/","Archive"),
             ("/en/categories/",   "Tags"),
             ("/en/rss.xml","RSS"),
-            ("en/misc.html","misc"),
+            ("/en/misc.html","misc"),
             ("/en/posts/index.html", "blog"),
           ),
           "Other Sections"
