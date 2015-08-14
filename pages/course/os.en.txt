@@ -26,7 +26,7 @@ Other Resources
 ------------
 
 `Web based Operating Systems Scheduling Algorithm Simulator with javascript
-<http://yoosofan.kashanu.ac.ir/webosasim/scheduling.html>`_
+<webosasim/scheduling.html>`_
 
 `Some sample and charts
 <files/course/os/print/print_for_class.odt>`_
