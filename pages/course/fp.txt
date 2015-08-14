@@ -254,6 +254,6 @@
 
 .. class:: yoosofan-change-ltr
 
-  .. include:: files/all.files/course/fp/fp01.c
+  .. include:: files/files/course/fp/fp01.c
      :code: c
      :number-lines:
