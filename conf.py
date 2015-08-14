@@ -59,7 +59,7 @@ NAVIGATION_LINKS = {
             ("/posts/index.html", "بلاگ"),
             ("/rss.xml", "RSS"),
             ("/about.html","درباره‌ی من"),
-            ("/misc/index.html", "دیگر زمینه‌ها")
+            ("/misc.html", "دیگر زمینه‌ها")
           ),
          "دیگر بخش‌ها"
         ),
@@ -72,7 +72,7 @@ NAVIGATION_LINKS = {
             ("/en/archive/","Archive"),
             ("/en/categories/",   "Tags"),
             ("/en/rss.xml","RSS"),
-            ("en/misc/index.html","misc"),
+            ("en/misc.html","misc"),
             ("/en/posts/index.html", "blog"),
           ),
           "Other Sections"

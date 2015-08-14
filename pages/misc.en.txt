@@ -1,0 +1,9 @@
+.. title: miscellaneous
+.. slug: misc
+.. date: 2015-08-14 19:04:08 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
