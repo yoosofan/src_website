@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/about.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/about.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/archive.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/categories/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/compiler.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/compiler.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/cpa.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/cpa.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/cpp.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/cpp.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/csharp.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/csharp.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/db.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/db.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/exam.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/exam.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/fp.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/fp.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/ie.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/ie.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/index.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/os.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/os.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/course/oslab.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/course/oslab.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/about.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/archive.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/categories/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/compiler.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/compiler.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/cpa.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/cpa.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/cpp.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/cpp.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/csharp.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/csharp.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/db.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/db.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/exam.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/exam.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/fp.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/fp.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/ie.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/ie.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/index.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/os.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/os.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/course/oslab.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="fa" href="http://yoosofan.github.io/yoosofan/course/oslab.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/misc.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/posts/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/en/research.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/index.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/misc.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/misc.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/posts/index.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/research.html</loc>
+  <lastmod>2015-08-15T12:54:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="http://yoosofan.github.io/yoosofan/en/research.html" />
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/webosasim/help.htm</loc>
+  <lastmod>2015-08-15T12:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/webosasim/memory.allocating.html</loc>
+  <lastmod>2015-08-15T12:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/webosasim/scheduling.html</loc>
+  <lastmod>2015-08-15T12:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/webrel/help/help.html</loc>
+  <lastmod>2015-08-15T12:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://yoosofan.github.io/yoosofan/webrel/index.htm</loc>
+  <lastmod>2015-08-15T12:33:00Z</lastmod>
+ </url>
+</urlset>

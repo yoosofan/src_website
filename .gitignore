@@ -2,7 +2,6 @@ __pycache__/
 cache/
 *~
 **/*~
-output/
 **/ehthumbs.db
 **/Thumbs.db
 ehthumbs.db
