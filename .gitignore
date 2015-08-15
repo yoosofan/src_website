@@ -10,8 +10,6 @@ Thumbs.db
 *.pyc
 *.pyo
 .doit.db
-themes/
-galleries/
 .*
 **/.*
 !.gitignore

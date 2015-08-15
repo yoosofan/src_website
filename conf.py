@@ -20,8 +20,8 @@ BLOG_AUTHOR = { "fa": "احمد یوسفان" , "en": "Ahmad Yoosofan",}
 BLOG_TITLE ={ "fa": "احمد یوسفان" ,   "en": "Ahmad Yoosofan", }
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-#SITE_URL = "http://yoosofan.github.io/yoosofan/"
-SITE_URL = "http://yoosofan.github.io/"
+SITE_URL = "http://yoosofan.github.io/yoosofan/"
+#SITE_URL = "http://yoosofan.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -364,8 +364,9 @@ REDIRECTIONS = []
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-GITHUB_SOURCE_BRANCH = 'source'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = 'master'
+#GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'  # for other "project" with link name "http://yoosofan.github.io/project"
 
 # The name of the remote where you wish to push to, using github_deploy.
 #GITHUB_REMOTE_NAME = 'origin'
@@ -637,7 +638,7 @@ CONTENT_FOOTER_FORMATS = {
         {
             "email": '<a href="http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">احمد یوسفان</a>' ,#BLOG_EMAIL,
             "author": 'احمد یوسفان' ,#BLOG_AUTHOR,
-            "date": str(jdatetime.date.today().year)+'/'+str(jdatetime.date.today().month)+'/'+str(jdatetime.date.today().day)+'-'+str(jdatetime.datetime.today().hour)+':'+str(jdatetime.datetime.today().minute)+':'+ str(jdatetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),
+            "date": str(jdatetime.date.today().year), #+'/'+str(jdatetime.date.today().month)+'/'+str(jdatetime.date.today().day)+'-'+str(jdatetime.datetime.today().hour)+':'+str(jdatetime.datetime.today().minute)+':'+ str(jdatetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),
             "license": LICENSE,
         }
     ),
@@ -646,7 +647,7 @@ CONTENT_FOOTER_FORMATS = {
         {
             "email": '<a href="http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">Ahmad Yoosofan</a>', #BLOG_EMAIL,
             "author": BLOG_AUTHOR,
-            "date": str(datetime.date.today().year)+'/'+str(datetime.date.today().month)+'/'+str(datetime.date.today().day)+' '+str(datetime.datetime.today().hour)+':'+str(datetime.datetime.today().minute)+':'+ str(datetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),#time.strftime("%Y/%m/%d %H:%M:%S",time.localtime()),
+            "date": str(datetime.date.today().year), #+'/'+str(datetime.date.today().month)+'/'+str(datetime.date.today().day)+' '+str(datetime.datetime.today().hour)+':'+str(datetime.datetime.today().minute)+':'+ str(datetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),#time.strftime("%Y/%m/%d %H:%M:%S",time.localtime()),
             "license": LICENSE,
         }
     )
