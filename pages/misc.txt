@@ -47,7 +47,16 @@
 *  `مکتب خونه <http://maktabkhooneh.org>`_
 *  `coursera <https://www.coursera.org>`_
 *  `edx <https://www.edx.org>`_
-
+*  `<http://www.darsa.ir>`_
+*  `<https://cgscholar.com>`_
+*  `<http://www.onlinecourses.com/>`_
+*  `<https://www.coursehero.com/>`_
+*  `<http://online.stanford.edu/>`_
+*  `<https://novoed.com/>`_
+*  `<http://videolectures.net>`_
+*  `<http://ocw.mit.edu/index.htm>`_
+*  `<http://video.mit.edu/channel/opencourseware/>`_
+  
 ----------------------------------
 
 برخی از مصوبه‌های گروه درباره‌ی دانشجویان
