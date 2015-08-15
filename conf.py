@@ -607,12 +607,12 @@ LICENSE = ""
 # (translatable)
 CONTENT_FOOTER = {
   DEFAULT_LANG:(
-    ' &copy; {date}         <a href="http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">{author}</a> - '
+    ' &copy; {date}  {email} - '
     ' - آماده شده به کمک'
     '         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
   ),
   "en":(
-     'Contents &copy; {date}         <a href="mailto:http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+     'Contents &copy; {date}  {email} - Powered by   <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
      '<br />'
      'University of Kashan'
   ),
@@ -629,16 +629,27 @@ CONTENT_FOOTER = {
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
+import datetime,jdatetime;
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
         {
-            "email": BLOG_EMAIL,
+            "email": '<a href="http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">احمد یوسفان</a>' ,#BLOG_EMAIL,
+            "author": 'احمد یوسفان' ,#BLOG_AUTHOR,
+            "date": str(jdatetime.date.today().year)+'/'+str(jdatetime.date.today().month)+'/'+str(jdatetime.date.today().day)+'-'+str(jdatetime.datetime.today().hour)+':'+str(jdatetime.datetime.today().minute)+':'+ str(jdatetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),
+            "license": LICENSE,
+        }
+    ),
+    "en": (
+        (),
+        {
+            "email": '<a href="http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">Ahmad Yoosofan</a>', #BLOG_EMAIL,
             "author": BLOG_AUTHOR,
-            "date": time.gmtime().tm_year,
-            "license": LICENSE
+            "date": str(datetime.date.today().year)+'/'+str(datetime.date.today().month)+'/'+str(datetime.date.today().day)+' '+str(datetime.datetime.today().hour)+':'+str(datetime.datetime.today().minute)+':'+ str(datetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),#time.strftime("%Y/%m/%d %H:%M:%S",time.localtime()),
+            "license": LICENSE,
         }
     )
+    
 }
 
 # To use comments, you can choose between different third party comment
