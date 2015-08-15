@@ -20,7 +20,7 @@ BLOG_AUTHOR = { "fa": "احمد یوسفان" , "en": "Ahmad Yoosofan",}
 BLOG_TITLE ={ "fa": "احمد یوسفان" ,   "en": "Ahmad Yoosofan", }
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://yoosofan.github.io/yoosofan/"
+SITE_URL = "http://yoosofan.github.io/"
 #SITE_URL = "http://yoosofan.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
@@ -364,9 +364,9 @@ REDIRECTIONS = []
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
-GITHUB_SOURCE_BRANCH = 'master'
+#GITHUB_SOURCE_BRANCH = 'master'
 #GITHUB_DEPLOY_BRANCH = 'master'
-GITHUB_DEPLOY_BRANCH = 'gh-pages'  # for other "project" with link name "http://yoosofan.github.io/project"
+#GITHUB_DEPLOY_BRANCH = 'gh-pages'  # for other "project" with link name "http://yoosofan.github.io/project"
 
 # The name of the remote where you wish to push to, using github_deploy.
 #GITHUB_REMOTE_NAME = 'origin'

@@ -1,2 +1,2 @@
-Sitemap: http://yoosofan.github.io/yoosofan/sitemapindex.xml
+Sitemap: http://yoosofan.github.io/sitemapindex.xml
 
