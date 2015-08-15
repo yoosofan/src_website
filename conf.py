@@ -154,8 +154,7 @@ TIMEZONE = "Asia/Tehran"
 # to feeds and are considered part of a blog, while PAGES are
 # just independent HTML pages.
 #
-
-POSTS = []
+POSTS = [("posts/*.txt", "blog", "post.tmpl")]
 PAGES = [("pages/*.txt", "", "story.tmpl")]
 
 # And to avoid a conflict because blogs try to generate /index.html
