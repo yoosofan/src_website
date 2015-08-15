@@ -78,7 +78,7 @@ NAVIGATION_LINKS = {
           ),
           "Other Sections"
         ),
-        ("/en/pages/about.html", "About"),
+        ("/en/about.html", "About"),
     )
 }
 
