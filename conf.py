@@ -55,29 +55,30 @@ NAVIGATION_LINKS = {
         ("/research.html", "پژوهش"),
         (
           (
-            ("/archive/", "بایگانی"),
+            ("/archive.html", "بایگانی"),
             ("/categories/", "برچسب‌ها"),
             ("/posts/index.html", "بلاگ"),
-            ("/rss.xml", "RSS"),
             ("/about.html","درباره‌ی من"),
-            ("/misc.html", "دیگر زمینه‌ها")
+            ("/semester/index.html","نیمسال‌های درسی"),
+            ("/misc/index.html", "دیگر زمینه‌ها")
           ),
          "دیگر بخش‌ها"
         ),
+        ("/rss.xml", "RSS"),
     ),
     "en": (
         ("/en/course/index.html", "course"),
         ("/en/research.html", "research"),
         (
           (
-            ("/en/archive/","Archive"),
+            ("/en/archive.html","Archive"),
             ("/en/categories/",   "Tags"),
-            ("/en/rss.xml","RSS"),
-            ("/en/misc.html","misc"),
+            ("/en/misc/index.html","misc"),
             ("/en/posts/index.html", "blog"),
           ),
           "Other Sections"
         ),
+        ("/en/rss.xml","RSS"),
         ("/en/about.html", "About"),
     )
 }
