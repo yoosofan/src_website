@@ -57,7 +57,7 @@ NAVIGATION_LINKS = {
           (
             ("/archive.html", "بایگانی"),
             ("/categories/", "برچسب‌ها"),
-            ("/posts/index.html", "بلاگ"),
+            ("/posts/index.html", "وب‌نوشت"),
             ("/about.html","درباره‌ی من"),
             ("/semester/index.html","نیمسال‌های درسی"),
             ("/misc/index.html", "دیگر زمینه‌ها")
