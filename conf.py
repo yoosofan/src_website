@@ -667,7 +667,8 @@ COMMENT_SYSTEM = "intensedebate"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "yoosofan"
+#COMMENT_SYSTEM_ID = "yoosofan"
+COMMENT_SYSTEM_ID = "3a78ae5b081cad12fabf5effa5e15f5c"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
