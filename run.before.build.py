@@ -6,10 +6,10 @@ siteKashanuAcc='COMMENT_SYSTEM_ID = "ff6272aef368983159c1b695b80898ca"'
 for li in l1:
   if li.find('SITE_URL = "http://yoosofan.') == 0: li2='#'+li
   elif li.find('#SITE_URL = "http://yoosofan.') == 0: li2=li[1:]
-  elif li.find('#'+siteGithubAcc ) == 0: li2=li[1:]
-  elif li.find('#'+siteKashanuAcc) == 0: li2=li[1:]
-  elif li.find(siteKashanuAcc) == 0:     li2='#'+li
-  elif li.find(siteGithubAcc ) == 0:     li2='#'+li
+  #elif li.find('#'+siteGithubAcc ) == 0: li2=li[1:]
+  #elif li.find('#'+siteKashanuAcc) == 0: li2=li[1:]
+  #elif li.find(siteKashanuAcc) == 0:     li2='#'+li
+  #elif li.find(siteGithubAcc ) == 0:     li2='#'+li
   else: li2=li
   l2.append(li2)
 f=open("conf.py","w", encoding='utf-8'); f.writelines(l2); f.close()
