@@ -21,7 +21,7 @@ Ubuntu
   sudo -H pip3 install --upgrade webassets
   sudo -H pip3 install --upgrade "Nikola[extras]"
 
-y
+
 Build the website and upload it
 =====================================================
 
