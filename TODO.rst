@@ -1,6 +1,3 @@
-Add support for gitlab
-
-https://pages.gitlab.io/
 
 comments and annotations
 =============================

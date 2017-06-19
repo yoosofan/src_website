@@ -1,11 +1,29 @@
 This is my website powered by Nikola
 
--------------------
+Install
+================
 
-Custom date for `geany`_
+*  python3
+*  python3-pip
+*  pip3 install --upgrade "Nikola[extras]"
 
-%Y-%d-%m %H:%M:%S UTC+04:30
+Ubuntu
+--------------------
 
+..  code:: sh
 
-.. _geany: http://geany.org
+  sudo apt-get install libxml2-dev libxslt1-dev zlib1g-dev
+  sudo apt-get install python3-dev
+  sudo apt-get install python3-requests python3-pip
+  easy_install3 -U pip3
+  sudo apt-get install libjpeg-dev
+  sudo -H pip3 install webassets
+  sudo -H pip3 install --upgrade webassets
+  sudo -H pip3 install --upgrade "Nikola[extras]"
+
+y
+Build the website and upload it
+=====================================================
+
+sh build_run.sh
 
