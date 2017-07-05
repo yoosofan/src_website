@@ -9,7 +9,10 @@ echo 'After build for github'
 rsync -av --delete --exclude=".*" output/ ../output__github/  --quiet
 python3 run.before.build.py
 
+echo 'sh clean.all.sh'
+
 sh clean.all.sh
+
 
 echo '========================================================='
 echo 'Before kashanu update'
