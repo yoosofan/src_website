@@ -1,10 +1,10 @@
 #!/bin/sh
 
-nikola build
+nikola build --quiet
 echo 'After build for kashanu'
 rsync -av --delete --exclude=".*" output/ ../output__kashanu/
 python3 run.before.build.py
-nikola build
+nikola build --quiet
 echo 'After build for github'
 rsync -av --delete --exclude=".*" output/ ../output__github/
 python3 run.before.build.py
