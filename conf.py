@@ -26,7 +26,7 @@ SITE_URL = "http://yoosofan.kashanu.ac.ir/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "yoosofan@kashanu.ac.ir"
-BLOG_DESCRIPTION ={ "en": "Ahmad Yooosfan's website" , "fa": "صفحه‌ی احمد یوسفان", }
+BLOG_DESCRIPTION ={ "en": "Ahmad Yooosfan's website" , "fa": "صفحهٔ احمد یوسفان", }
 # If you want to use Nikola with a non-supported language you have to provide
 # a module containing the necessary translations
 # (cf. the modules at nikola/data/themes/base/messages/).
@@ -58,7 +58,7 @@ NAVIGATION_LINKS = {
             ("/archive.html", "بایگانی"),
             ("/categories/", "برچسب‌ها"),
             ("/posts/index.html", "وب‌نوشت"),
-            ("/about.html","درباره‌ی من"),
+            ("/about.html","دربارهٔ من"),
             ("/semester/index.html","نیمسال‌های درسی"),
             ("/misc/index.html", "دیگر زمینه‌ها")
           ),
