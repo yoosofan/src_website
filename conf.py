@@ -662,13 +662,14 @@ CONTENT_FOOTER_FORMATS = {
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
 #COMMENT_SYSTEM = "disqus"
-COMMENT_SYSTEM = "intensedebate"
+#COMMENT_SYSTEM = "intensedebate"
+COMMENT_SYSTEM = "komentify"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
 #COMMENT_SYSTEM_ID = "yoosofan"
-COMMENT_SYSTEM_ID = "3a78ae5b081cad12fabf5effa5e15f5c"
+COMMENT_SYSTEM_ID = "9tnaKFpecek7R5kBQ"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
@@ -891,11 +892,7 @@ SEARCH_FORM = """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = '''
-<script type="text/javascript" src="https://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
-<script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
-<script type="https://intensedebate.com/comment/3a78ae5b081cad12fabf5effa5e15f5c/generic/455785556"></script>
-'''
+BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
