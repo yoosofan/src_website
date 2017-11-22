@@ -662,14 +662,13 @@ CONTENT_FOOTER_FORMATS = {
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
 #COMMENT_SYSTEM = "disqus"
-#COMMENT_SYSTEM = "intensedebate"
-COMMENT_SYSTEM = "komentify"
+COMMENT_SYSTEM = "intensedebate"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
 #COMMENT_SYSTEM_ID = "yoosofan"
-COMMENT_SYSTEM_ID = "9tnaKFpecek7R5kBQ"
+COMMENT_SYSTEM_ID = "3a78ae5b081cad12fabf5effa5e15f5c"
 
 # Enable annotations using annotateit.org?
 # If set to False, you can still enable them for individual posts and pages
