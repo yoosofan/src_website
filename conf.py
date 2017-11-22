@@ -894,6 +894,7 @@ SEARCH_FORM = """
 BODY_END = '''
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
 <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+<script type="https://intensedebate.com/comment/3a78ae5b081cad12fabf5effa5e15f5c/generic/455785556"></script>
 '''
 
 # The possibility to extract metadata from the filename by using a
