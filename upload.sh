@@ -1,5 +1,8 @@
 #!/bin/sh
 
+#echo 'before sh clean.all.sh'
+#sh clean.all.sh
+
 echo '========================================================='
 echo 'Before kashanu update'
 echo '========================================================='
