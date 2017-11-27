@@ -892,7 +892,7 @@ SEARCH_FORM = """
 # in the default template (base.tmpl).
 # (translatable)
 BODY_END = '''
-<script type="text/javascript" src="www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
+<script type="text/javascript" src="http://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
 '''
 
 # The possibility to extract metadata from the filename by using a
