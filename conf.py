@@ -891,9 +891,7 @@ SEARCH_FORM = """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = '''
-<script type="text/javascript" src="http://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>
-'''
+BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
