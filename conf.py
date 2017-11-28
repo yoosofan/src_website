@@ -891,7 +891,9 @@ SEARCH_FORM = """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = ""
+BODY_END = """
+<script src="https://intensedebate.com/js/idm-combined.js?v=1" type="text/javascript"></script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
