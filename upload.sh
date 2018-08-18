@@ -7,8 +7,8 @@ echo '========================================================='
 echo 'Before kashanu update'
 echo '========================================================='
 
-cd ..
-sh kashanu.upload.sh
+#cd ..
+#sh kashanu.upload.sh
 #lftp usename:password@yourFTPwebsite  -e  "set ftp:ssl-allow no; mirror -R `pwd`/output__kashanu /yourFTPwebsiteLocation ; quit"
 
 echo '========================================================='

@@ -34,6 +34,10 @@ BLOG_DESCRIPTION ={ "en": "Ahmad Yooosfan's website" , "fa": "صفحهٔ احم�
 # in the default language will be shown instead.
 # What is the default language?
 DEFAULT_LANG = "fa"
+
+LOCALES = {
+    "fa" : "fa_IR.UTF-8",
+} #fa_IR.UTF-8
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
 # the path will be used as a prefix for the generated pages location
@@ -888,14 +892,14 @@ SEARCH_FORM = """
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = """
-	<script type="text/javascript">
-	if (self === top) {
-		var antiClickjack = document.getElementById("antiClickjack");
-		antiClickjack.parentNode.removeChild(antiClickjack);
-	} else {
-		top.location = self.location;
-	}
-	</script>
+    <script type="text/javascript">
+    if (self === top) {
+        var antiClickjack = document.getElementById("antiClickjack");
+        antiClickjack.parentNode.removeChild(antiClickjack);
+    } else {
+        top.location = self.location;
+    }
+    </script>
 """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
