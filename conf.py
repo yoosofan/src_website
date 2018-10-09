@@ -62,12 +62,12 @@ NAVIGATION_LINKS = {
             ("/archive.html", "بایگانی"),
             ("/categories/", "برچسب‌ها"),
             ("/posts/index.html", "وب‌نوشت"),
-            ("/about.html","دربارهٔ من"),
             ("/semester/index.html","نیمسال‌های درسی"),
             ("/misc/index.html", "دیگر زمینه‌ها")
           ),
          "دیگر بخش‌ها"
         ),
+        ("/about.html","دربارهٔ من"),
         ("/rss.xml", "RSS"),
     ),
     "en": (
@@ -88,7 +88,12 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "bootstrap"
+#THEME = "base"
+#THEME = "bootblog4"
+#THEME = "bootblog"
+#THEME = "foundation6"
+#THEME = "reveal"
 #THEME = "custom_theme"
 
 # Below this point, everything is optional
@@ -844,36 +849,38 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # it appears on the navigation bar:
 #
 
+SEARCH_FORM = """
+<!-- DuckDuckGo custom search -->
+<form method="get" id="search" action="//duckduckgo.com/"
+class="navbar-form pull-left">
+<input type="hidden" name="sites" value="%s">
+<input type="hidden" name="k8" value="#444444">
+<input type="hidden" name="k9" value="#D51920">
+<input type="hidden" name="kt" value="h">
+<input type="text" name="q" maxlength="255"
+placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
+<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+</form>
+<!-- End of custom search -->
+""" % SITE_URL
+#
+
+
+# If you prefer a Google search form, here's an example that should just work:
 #SEARCH_FORM = """
-#<!-- DuckDuckGo custom search -->
-#<form method="get" id="search" action="//duckduckgo.com/"
-#class="navbar-form pull-left">
-#<input type="hidden" name="sites" value="%s">
-#<input type="hidden" name="k8" value="#444444">
-#<input type="hidden" name="k9" value="#D51920">
-#<input type="hidden" name="kt" value="h">
-#<input type="text" name="q" maxlength="255"
-#placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
-#<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+#<!-- Google custom search -->
+#<form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
+#<!-- <div class="form-group"> -->
+#<input type="text" name="q" class="form-control" placeholder="Search">
+#<!-- </div> -->
+#<button type="submit" class="btn btn-primary">
+#<span class="glyphicon glyphicon-search"></span>
+#</button>
+#<input type="hidden" name="sitesearch" value="%s">
 #</form>
 #<!-- End of custom search -->
 #""" % SITE_URL
 #
-# If you prefer a Google search form, here's an example that should just work:
-SEARCH_FORM = """
-<!-- Google custom search -->
-<form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
-<div class="form-group">
-<input type="text" name="q" class="form-control" placeholder="Search">
-</div>
-<button type="submit" class="btn btn-primary">
-<span class="glyphicon glyphicon-search"></span>
-</button>
-<input type="hidden" name="sitesearch" value="%s">
-</form>
-<!-- End of custom search -->
-""" % SITE_URL
-
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
 # If this is True, jQuery and html5shiv are served from the Google CDN and
@@ -925,7 +932,8 @@ BODY_END = """
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+#UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
