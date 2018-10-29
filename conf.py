@@ -67,7 +67,6 @@ NAVIGATION_LINKS = {
           ),
          "دیگر بخش‌ها"
         ),
-        ("/about.html","دربارهٔ من"),
         ("/rss.xml", "RSS"),
     ),
     "en": (
@@ -83,7 +82,6 @@ NAVIGATION_LINKS = {
           "Other Sections"
         ),
         ("/en/rss.xml","RSS"),
-        ("/en/about.html", "About"),
     )
 }
 
