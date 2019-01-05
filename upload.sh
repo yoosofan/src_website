@@ -18,7 +18,8 @@ echo '========================================================='
 cd  output__github
 git add .
 git commit -am "version `date`"
-torsocks git push -u origin master
+#torsocks git push -u origin master
+git push -u origin master
 
 echo '========================================================='
 echo 'Before giithub source update'
@@ -27,5 +28,6 @@ echo '========================================================='
 cd ../website
 git add .
 git commit -am "version `date`"
-torsocks git push -u origin master
+#torsocks git push -u origin master
+git push -u origin master
 
