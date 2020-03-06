@@ -167,9 +167,9 @@ POSTS = [
     ("posts/*.html", "posts", "post.tmpl"),
 ]
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 #PAGES = [("pages/*.txt", "", "story.tmpl")]
 
@@ -904,16 +904,16 @@ placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = """
-    <script type="text/javascript">
-    if (self === top) {
-        var antiClickjack = document.getElementById("antiClickjack");
-        antiClickjack.parentNode.removeChild(antiClickjack);
-    } else {
-        top.location = self.location;
-    }
-    </script>
-"""
+#EXTRA_HEAD_DATA = """
+#    <script type="text/javascript">
+#    if (self === top) {
+#        var antiClickjack = document.getElementById("antiClickjack");
+#        antiClickjack.parentNode.removeChild(antiClickjack);
+#    } else {
+#        top.location = self.location;
+#    }
+#    </script>
+#"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
