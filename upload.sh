@@ -15,7 +15,7 @@ echo '========================================================='
 echo 'Before github website update'
 echo '========================================================='
 
-cd  output__github
+cd  ../output__github
 echo `pwd`
 git add .
 git commit -am "version `date`"
