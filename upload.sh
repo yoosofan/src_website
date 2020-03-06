@@ -20,6 +20,7 @@ echo `pwd`
 git add .
 git commit -am "version `date`"
 #torsocks git push -u origin master
+git remote -v
 git push -u origin master
 
 echo '========================================================='
