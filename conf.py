@@ -15,17 +15,16 @@ import time
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
 
-
 BLOG_AUTHOR = { "fa": "احمد یوسفان" , "en": "Ahmad Yoosofan",}
-BLOG_TITLE ={ "fa": "احمد یوسفان" ,   "en": "Ahmad Yoosofan", }
+BLOG_TITLE  = { "fa": "احمد یوسفان" ,   "en": "Ahmad Yoosofan", }
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 #SITE_URL = "http://yoosofan.github.io/"
-SITE_URL = "http://yoosofan.kashanu.ac.ir/"
+SITE_URL = "https://yoosofan.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "yoosofan@kashanu.ac.ir"
+BLOG_EMAIL = "yoosofan@myfastmail.com"
 BLOG_DESCRIPTION ={ "en": "Ahmad Yooosfan's website" , "fa": "صفحهٔ احمد یوسفان", }
 # If you want to use Nikola with a non-supported language you have to provide
 # a module containing the necessary translations
@@ -162,8 +161,17 @@ TIMEZONE = "Asia/Tehran"
 # to feeds and are considered part of a blog, while PAGES are
 # just independent HTML pages.
 #
-POSTS = [("posts/*.txt", "blog", "post.tmpl")]
-PAGES = [("pages/*.txt", "", "story.tmpl")]
+POSTS = [
+    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.txt", "posts", "post.tmpl"),
+    ("posts/*.html", "posts", "post.tmpl"),
+]
+PAGES = (
+    ("pages/*.rst", "pages", "page.tmpl"),
+    ("pages/*.txt", "pages", "page.tmpl"),
+    ("pages/*.html", "pages", "page.tmpl"),
+)
+#PAGES = [("pages/*.txt", "", "story.tmpl")]
 
 # And to avoid a conflict because blogs try to generate /index.html
 INDEX_PATH = "posts"
@@ -319,7 +327,7 @@ HIDDEN_CATEGORIES = []
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
-# ARCHIVE_PATH = ""
+# ARCHIVE_PATH = "archive"
 # ARCHIVE_FILENAME = "archive.html"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list

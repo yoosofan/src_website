@@ -8,6 +8,7 @@
 .. type: text
 .. hidetitle: True
 .. keywords: yoosofan, Ahmad Yoosofan, ahmad usofan, computer, university of Kashan, computer engineering department
+.. lang: en
 
 .. raw:: html
 
