@@ -15,7 +15,7 @@ echo 'After clean.all.sh'
 
 #nikola build --quiet
 echo 'Before build for github'
-nikola build 
+nikola build --quiet
 echo 'After build for github'
 rsync -av --delete --exclude=".*" output/ ../output__github/  --quiet
 #python3 run.before.build.py
@@ -23,3 +23,4 @@ rsync -av --delete --exclude=".*" output/ ../output__github/  --quiet
 cd  output/
 nikola serve -b
 
+sh clean.all.sh
