@@ -19,7 +19,7 @@
 *  آزمعماری  دوشنبه ساعت ۱۶ به چهارشنبه ساعت ۸ منتقل شد*  زمان برخی آزمون‌ها تغییر کرد.
 
 `پیوند به آخرین نسخهٔ در حال تغییر
-<http://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
+<https://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
 
 
 `پیوند دائمی برای برنامهٔ درسی این نیمسال

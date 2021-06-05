@@ -9,7 +9,7 @@
 
 
 ویرایش دوم برنامه درسی آماده شد. `پیوند به آخرین نسخهٔ در حال تغییر
-<http://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
+<https://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
 
 ویرایش‌ها به قرار زیر است:
 
@@ -32,7 +32,7 @@
 <https://app.box.com/s/uh9ubs69p12wd9ln67ujwkpdk2bllx76>`_
 
 `پیوند به آخرین نسخهٔ در حال تغییر
-<http://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
+<https://yoosofan.github.io/yooscripts/php/sendTimeTable.php>`_
 
 `پیوند دائمی برای این نیمسال
 </files/semester/time_table_941.odt>`_
