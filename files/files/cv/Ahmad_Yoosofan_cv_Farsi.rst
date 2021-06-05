@@ -76,7 +76,7 @@ kashanu.ac.ir, mail.com, gmail.com, gmx.com, myfastmail.com, ymail.com
 برخی از ابزارهای تولید شده
 ###################################################################################################
 
-* `<http://yoosofan.kashanu.ac.ir/webrel/index.htm>`_
+* `<http://yoosofan.kashanu.ac.ir/webrel/index.html>`_
 * تعدادی از پروژه‌های متن‌باز `<https://github.com/yoosofan>`_
 * نرم‌افزار کنترل تولید `شرکت پتروشیمی نوری <https://www.bpciran.com/portal/>`_. `نشانی پتروشیمی نوری <https://www.openstreetmap.org/#map=15/27.5526/52.5568>`_ , `نشانی پتروشیمی نوری با نام <https://www.openstreetmap.org/way/317494336>`_
 

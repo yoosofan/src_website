@@ -87,7 +87,7 @@ Education
 Some Created Applications
 ###################################################################################################
 
-* `<http://yoosofan.kashanu.ac.ir/webrel/index.htm>`_
+* `<http://yoosofan.kashanu.ac.ir/webrel/index.html>`_
 * `<https://github.com/yoosofan>`_
 * Production Control Software for `Nouri (Borzouyeh) Petrochemical Company <https://www.bpciran.com/portal/>`_ – Pars special economy zone – Assalouyeh- Bushehr Province. `Map Nouri <https://www.openstreetmap.org/#map=15/27.5526/52.5568>`_ , `Map Nouri By Name <https://www.openstreetmap.org/way/317494336>`_
 
