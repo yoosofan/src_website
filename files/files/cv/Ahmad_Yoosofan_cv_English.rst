@@ -123,7 +123,7 @@ Projects With Other Companies
 Book
 ###################################################################################################
 #. ActiveX. Ahmad Yoosofan, Mohsen Biglary. 2009.
-#. Introduction to Programming Contests. Ahmad Yoosofan, Mohsen Biglary, Faezeh Mirzaie, Amin Babadi. 2016. `<ACM Book page https://yoosofan.github.io/en/acm-book.html>`_
+#. Introduction to Programming Contests. Ahmad Yoosofan, Mohsen Biglary, Faezeh Mirzaie, Amin Babadi. 2016. `<ACM Book page> https://yoosofan.github.io/en/acm-book.html>`_
 
 ===================================================================================================
 
