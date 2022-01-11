@@ -1,3 +1,4 @@
+echo 'start clean.all.sh'
 nikola clean -a  > /dev/null
 nikola check --clean-files > /dev/null
 rm output/ cache/ __pycache__/ -rf  > /dev/null

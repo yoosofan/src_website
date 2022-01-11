@@ -1,0 +1,104 @@
+.. title: 
+.. slug: index
+.. date: 2015-08-12 10:39:03 UTC+04:30
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+.. keywords:  یوسفان, احمد یوسفان, کامپیوتر, دانشگاه کاشان, مهندسی کامپیوتر, yoosofan, Ahmad Yoosofan, ahmad usofan, computer, university of Kashan, computer engineering department
+
+.. raw:: html
+
+  <table cellpadding="10" width="100%" z> <tr><td>
+  عضو هیأت علمی گروهِ مهندسی کامپیوتر، دانشکدهٔ مهندسی برق و کامپیوتر.
+  <br />
+  دانشگاه کاشان. استان اصفهان، کاشان، کیلومتر ۶ بلوار قطب راوندی، کد پستی:۸۷۳۱۷۵۳۱۵۳
+  <br />
+  دفتر : ساختمانِ ساتر (ساختمان جدید مهندسی) ، طبقهٔ دوم، راهروی شرقی، شمارهٔ اتاق ۳۵۱.
+  <br />
+  تلفن دفتر : ۰۳۱۵۵۹۱۳۴۶۸
+  <br />
+  Email (رایانامه) :
+  بیشتر رایانامه‌هایم با yoosofan آغاز می‌شوند و پس از @ نام یکی از وب‌گاه‌های زیر می‌آید
+  <br />
+  <a href="http://kashanu.ac.ir">kashanu.ac.ir</a> ،
+  <a href="http://mail.com"> mail.com </a> ،
+  <a href="http://gmail.com"> gmail.com </a>،
+  <a href="http://gmx.com"> gmx.com </a>،
+  <a href="http://myfastmail.com"> myfastmail.com </a>,
+  <a href="http://ymail.com"> ymail.com </a><br />
+  <a href="https://t.me/yoosofan/"> نشانی تلگرام</a><br />
+  <a href="https://t.me/crypto_in_farsi/"> کانالم دربارهٔ رمزپول‌ها </a>
+  </td><td align="center" >
+  <img src="/galleries/images/ahmad_yoosofan_grey2.jpg"  />
+  </td></tr></table>
+
+
+کارنامک(پیشینه‌نامه resume,cv)
+`PDF </files/cv/Ahmad_Yoosofan_cv_Farsi.pdf>`_ ,
+`HTML </files/cv/Ahmad_Yoosofan_cv_Farsi.html>`_ ,
+`RST </files/cv/Ahmad_Yoosofan_cv_Farsi.rst>`_
+
+`برنامهٔ کاری و حضور در دفتر 
+<https://mailt.kashanu.ac.ir:8443/home/yoosofan@kashanu.ac.ir/Calendar.html>`_
+یا به صورت
+`ics <https://mailt.kashanu.ac.ir:8443/home/yoosofan@kashanu.ac.ir/Calendar.ics>`_
+
+.. :
+
+    در ساعت‌های «حضور» می‌توانید به دفتر بیایید یا زنگ بزنید و برای ساعت‌های «با هماهنگی» و دیگر زمان‌ها از سه روز پیش با رایانامه(email) وقت بگیرید. بسیاری از پرسش‌ها را می‌توانید به کمک نامه بپرسید.
+
+    `مقدمه‌ای بر مسابقات برنامه‌نویسی. احمد یوسفان ، محسن بیگلری ، فائزه میرزائی ، امین بابادی. کاشان: شاسوسا، ‏‫۱۳۹۵. </acm-book.html>`_
+
+    `WebRel </webrel/index.html>`_
+
+
+جلسه‌های درس‌های اغلب کلاس‌های مجازی‌ام را در نیمسال‌های گذشته در
+`یوتیوب
+<https://www.youtube.com/yoosofan>`_
+و تعدادی را در 
+`lbry.tv <https://lbry.tv/$/invite/@yoosofan:2>`_
+گذاشته‌ام.
+
+------------------------------------------------------------------
+
+.. class:: yoosofan-change-ltr
+
+`presearch <https://presearch.org/signup?rid=1987440>`_
+`odysee <https://odysee.com/$/invite/@yoosofan:2>`_
+`read.cash <https://read.cash/r/yoosofan>`_
+`lbry.tv <https://lbry.tv/$/invite/@yoosofan:2>`_
+`bittube <https://bittube.tv/yoosofan>`_
+`bitbucket <https://bitbucket.org/yoosofan/>`_
+`github <https://github.com/yoosofan>`_ 
+`gitlab <https://gitlab.com/users/yoosofan_course/projects>`_ 
+`researchgate <https://www.researchgate.net/profile/Ahmad_Yoosofan>`_ 
+`linkedin <https://ir.linkedin.com/pub/ahmad-yoosofan/37/215/284>`_ 
+`twitter <https://twitter.com/yoosofan>`_ 
+`AskUbuntu <http://askubuntu.com/users/68375/ahmad-yoosofan>`_ 
+`stackoverflow <https://stackoverflow.com/users/886607/ahmad-yoosofan>`_
+`Medium <https://medium.com/@yoosofan>`_
+`disqus <https://disqus.com/by/yoosofan/>`_ 
+`facebook <https://www.facebook.com/public/Ahmad-Yoosofan>`_ 
+`sourceforge <http://sourceforge.net/u/yoosofan/profile/>`_  
+`savannah gnu <http://savannah.gnu.org/users/yoosofan>`_ 
+`goblinrefuge <https://goblinrefuge.com/mediagoblin/u/yoosofan/>`_
+`Quora <https://www.quora.com/Ahmad-Yoosofan>`_ 
+`goodreads <https://www.goodreads.com/user/show/8386662-ahmad-yoosofan>`_ 
+`reddit <https://www.reddit.com/user/yoosofan>`_
+`bitcoin.it <https://en.bitcoin.it/wiki/User:Yoosofan>`_ 
+`bitcointalk <https://bitcointalk.org/index.php?action=profile;u=1736524>`_
+`twitch <https://www.twitch.tv/yoosofan>`_
+`youtube <https://www.youtube.com/yoosofan>`_
+`zotero <https://www.zotero.org/yoosofan>`_ 
+`blogspot <http://yoosofan.blogspot.com>`_ 
+`Telegram <https://t.me/yoosofan/>`_ 
+`Fastmail <https://www.fastmail.com/?STKI=2243603>`_
+`Flote <https://flote.app/yoosofan>`_
+`Gab <https://gab.com/yoosofan>`_
+`restream.io <https://restream.io/join/KkP6z>`_
+`theta <https://www.theta.tv/invite/byl3sd>`_
+`linktree <https://linktr.ee/yoosofan>`_
+`bitchut <https://www.bitchute.com/channel/yoosofan/>`_

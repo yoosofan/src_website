@@ -1,15 +1,7 @@
-__pycache__/
-cache/
-*~
-**/*~
-output/
-**/ehthumbs.db
-**/Thumbs.db
-ehthumbs.db
-Thumbs.db
-*.pyc
-*.pyo
-.doit.db
-.*
-**/.*
-!.gitignore
+# -*- coding: utf-8 -*-
+
+from __future__ import unicode_literals
+import time
+
+# !! This is the configuration of Nikola. !! #
+# !!
