@@ -649,14 +649,14 @@ CONTENT_FOOTER = {
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
 # (translatable)
-import datetime,jdatetime;
+import datetime #,jdatetime;
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
         {
             "email": '<a href="http://address-protector.com/7jR5o_WTKpt3ka_dxLMTKKHD3F5EQr_VirYRA3ulzHx85OktlMTc6AEKZStmadHF">احمد یوسفان</a>' ,#BLOG_EMAIL,
             "author": 'احمد یوسفان' ,#BLOG_AUTHOR,
-            "date": str(jdatetime.date.today().year), #+'/'+str(jdatetime.date.today().month)+'/'+str(jdatetime.date.today().day)+'-'+str(jdatetime.datetime.today().hour)+':'+str(jdatetime.datetime.today().minute)+':'+ str(jdatetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),
+            "date": str(datetime.date.today().year), #+'/'+str(jdatetime.date.today().month)+'/'+str(jdatetime.date.today().day)+'-'+str(jdatetime.datetime.today().hour)+':'+str(jdatetime.datetime.today().minute)+':'+ str(jdatetime.datetime.today().second), #time.strftime("%Y/%m/%d %H:%M:%S:%A",time.localtime()),
             "license": LICENSE,
         }
     ),
